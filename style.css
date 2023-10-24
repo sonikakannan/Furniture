@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
 }
+/* navbr top */
 .navbar-top{
     width: 100%;
     height: 10vh;
@@ -41,8 +42,7 @@
         width: 20px;
     }
 }
-
-
+/* navbar top */
 
 /* main content */
 .main-content{
@@ -117,11 +117,7 @@
 /* card1 */
 
 /* card2 */
-@media screen and(max-width:420px) {
-    .icon i img{
-        width: 20px;
-    }
-}
+
 #tpc{
     box-shadow: 0 0 5px black;
     transition: 0.5s ease ;
@@ -154,8 +150,9 @@
     #btn button{
         width: 20px;
     }
-    
 }
+/* card3 */
+
 /* about */
 #btn4 button{
     width: 150px;
